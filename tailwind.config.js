@@ -8,7 +8,8 @@ module.exports = {
       },
       colors: {
         'white': '#fff',
-        'navbtnbg':'#2D22AA'
+        'navbtnbg':'#2D22AA',
+        'textColor':'#000000'
       },
     },
   },
